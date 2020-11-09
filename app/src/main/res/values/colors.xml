@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E5C8C</color>
+    <color name="colorPrimaryDark">#1E5C8C</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorEnd">#366C96</color>
+
+    <color name="screen_title_color">#0c4150</color>
+    <color name="app_blue_color">#1E5C8C</color>
+    <color name="news_item_red_color">#e77b6e</color>
+    <color name="news_detail_title_color">#3b505e</color>
+    <color name="text_color">#353535</color>
+
+    <color name="colorGrey">#9EACB5</color>
+    <color name="colorRed">#DA0303</color>
+    <color name="colorGreen">#85B27C</color>
+    <color name="colorDarkGreen">#074939</color>
+    <color name="colorBlue">#4F9BD6</color>
+
+    <color name="colorBlack">#FF000000</color>
+    <color name="colorWhite">#FFFFFFFF</color>
+</resources>
